@@ -12,3 +12,6 @@
 }
 对二维码图片添加qrcode样式
 </pre>
+
+##Chrome 插件集
+http://www.w3ctrain.com/2016/10/16/my-chrome-extension/

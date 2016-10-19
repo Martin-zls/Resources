@@ -16,5 +16,8 @@
 ##Chrome 插件集
 http://www.w3ctrain.com/2016/10/16/my-chrome-extension/
 
-##a前端面试题
+##前端面试题
 http://markyun.github.io/2015/Front-end-Developer-Questions/
+
+##最全前端资源汇集
+http://www.jianshu.com/p/c3dae0951f74
